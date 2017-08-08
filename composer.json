@@ -1,0 +1,5 @@
+{
+  "require": {
+    "simpow-framework/core": "dev-master"
+  }
+}
